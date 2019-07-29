@@ -11,10 +11,16 @@
 # Описание
 Бот предназначен для игрового бота ВК - World of Clans
 
+# Возможности
+* Фарм Золота / Дерева / Руды
+* Обход анти-бота ( сам решает примеры )
+* Получение статистики при запуске ( по приколу, мб в дальнейшем пригодится )
+* Обход капчи вк ( через RuCapcha )
+
 # Настройки
 * Получение токена (token):
 
-Откройте [эту](https://oauth.vk.com/authorize?client_id=6378721&scope=1073737727&redirect_uri=https://api.vk.com/blank.html&display=page&response_type=token&revoke=1) ссылку и нажмите разрешить
+Откройте [эту](https://vk.cc/9DWTyO) ссылку и нажмите разрешить
 
 После этого в адресной строке будет подобное: **https://api.vk.com/blank.html#access_token=xxxxxxxxxxxx&expires_in=0&user_id=user_id&email=email**
 
